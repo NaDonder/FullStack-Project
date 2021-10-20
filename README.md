@@ -19,15 +19,15 @@ The information comes in JSON format and the FrontEnd side builds the Page and s
 All using Technologies from React.
 
 You will see:
-FC - using Function Class instead of Component Class. (Also written in TS)
-Layout - which describes how the webpage format is built
-Routing - which uses Routing Component with Default Route and Page Not Found
-Login Component - which after the Login is completed with the ClientType will show the relevant Menu
-Token - for authorization and validation
-Admin/Company/Customer - each have different menu interface and components
-Logout - deletes the Token and goes back to main page
-Models - similar to Java beans
-Redux - for saving the Login user in the App State
-Material UI - for a little bit of design
-Notify - for client-side messages for every action.
-Hooks -  They let you use state and other React features without writing a class.
+- FC : using Function Class instead of Component Class. (Also written in TS)
+- Layout : which describes how the webpage format is built
+- Routing : which uses Routing Component with Default Route and Page Not Found
+- Login Component : which after the Login is completed with the ClientType will show the relevant Menu
+- Token : for authorization and validation
+- Admin/Company/Customer : each have different menu interface and components
+- Logout : deletes the Token and goes back to main page
+- Models : similar to Java beans
+- Redux : for saving the Login user in the App State
+- Material UI : for a little bit of design
+- Notify : for client-side messages for every action.
+- Hooks :  They let you use state and other React features without writing a class.
