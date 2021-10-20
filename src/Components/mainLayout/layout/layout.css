@@ -1,0 +1,15 @@
+.Layout {
+	height: 100%;
+    box-sizing: border-box;
+    display: grid; /*2d*/
+
+}
+.Layout>header,.Layout>footer{
+    grid-column: span 6; /*connection*/
+}
+.Layout>main{
+    grid-column: span 5;
+}
+.Layout>*{
+    border: 1px solid black;
+}

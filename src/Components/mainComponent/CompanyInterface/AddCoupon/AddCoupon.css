@@ -1,0 +1,16 @@
+.AddCoupon {
+	text-align: center;
+}
+.smallBoxAddCoupon{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 27%; 
+    background-image: url(https://images.pexels.com/photos/5632362/pexels-photo-5632362.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

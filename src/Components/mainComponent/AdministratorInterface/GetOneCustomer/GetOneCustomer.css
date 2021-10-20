@@ -1,0 +1,16 @@
+.GetOneCustomer {
+	text-align: center;
+}
+.GetOneCustomer>span{
+    font-size:20px;
+}
+.smallBoxGet{
+    text-align: left;
+    border: 1PX dashed black;
+    padding: 10px 10px;
+    margin: 40px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 800px;
+    background-color: bisque;
+  }

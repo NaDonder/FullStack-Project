@@ -1,0 +1,22 @@
+.GetAllCompanyCoupons {
+	text-align: center;
+}
+.GetAllCompanyCoupons>h2{
+	color: black;
+}
+.smallBoxShow{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 27%; 
+  }
+  .smallBoxShow>Button{
+	  border: 1PX dashed black;
+  }
+  #center1{
+    text-align: center;
+  }

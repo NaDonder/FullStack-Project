@@ -1,0 +1,17 @@
+.GetAllCompanies {
+	text-align: center;
+}
+.GetAllCompanies>h3{
+	color: white;
+}
+.smallBoxAll{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 200px; 
+    box-sizing: border-box;
+  }

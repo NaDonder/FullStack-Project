@@ -1,0 +1,20 @@
+.UpdateCompany {
+	text-align: center;
+}
+.UpdateCompany>span{
+    font-size:20px;
+    color: black;
+}
+.smallBoxUpdate{
+    text-align: left;
+    border: 1PX dashed black;
+    padding: 10px 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 500px;
+    background-color: bisque;
+  }
+ .UpdateCompany>h3{
+     color : black
+ }

@@ -1,0 +1,19 @@
+.ShowMyCoupons {
+	text-align: center;
+}
+.ShowMyCoupons>span{
+	color: black;
+}
+.smallBoxShow{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 27%; 
+  }
+  .ShowMyCoupons>Button{
+	  border: 1PX dashed black;
+  }

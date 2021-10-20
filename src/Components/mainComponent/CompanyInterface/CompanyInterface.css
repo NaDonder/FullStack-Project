@@ -1,0 +1,55 @@
+.CompanyInterface {
+	text-align: center;
+	color: #333333;
+	text-decoration: underline;
+	text-decoration-color: black;
+	text-align: center;
+	color: white;
+}
+*,
+*:before,
+*:after{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+#nl2{
+	height: 2vh;
+	width:20vw;
+	min-width: 100px;
+	display: flex;
+	align-items: center;
+	position: relative;
+	text-decoration: none;
+	font-family: 'Poppins',sans-serif;
+	color: #ffffff;
+	font-size: 18px;
+	letter-spacing: 0.3px;
+	padding: 0 10px;
+}
+#nl2:after{
+	content: "";
+	position: absolute;
+	background-color: #ff3c78;
+	height: 2px;
+	width: 0;
+	left: 0;
+	bottom: -10px;
+	transition: 0.3s;
+}
+#nl2:hover{
+	color: #ff0000;
+}
+#nl2:hover:after{
+	width: 100%;
+}
+#interfaceHeader{
+	color: rgb(28, 245, 162);
+	font-size: 170%;
+
+}
+#interfaceHeader1{
+	color: rgb(28, 245, 162);
+	font-size: 150%;
+}
+

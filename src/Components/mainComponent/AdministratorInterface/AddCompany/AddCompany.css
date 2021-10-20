@@ -1,0 +1,17 @@
+.AddCompany {
+	
+}
+.smallBoxAddCompany{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 300px; 
+    box-sizing: border-box;
+    background-image: url(https://images.pexels.com/photos/288477/pexels-photo-288477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

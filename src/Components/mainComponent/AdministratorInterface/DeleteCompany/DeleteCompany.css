@@ -1,0 +1,18 @@
+.DeleteCompany {
+	text-align: center;
+	color: black;
+}
+.smallBoxRemove{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 10px 10px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 300px; 
+    box-sizing: border-box;
+  }
+  h3{
+	  color: black;
+  }

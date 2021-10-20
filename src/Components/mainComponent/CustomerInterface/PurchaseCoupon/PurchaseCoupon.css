@@ -1,0 +1,16 @@
+.PurchaseCoupon {
+	text-align: left;
+	color: black;
+}
+.smallBoxPurchase{
+    background-color: bisque;
+    text-align: center;
+    border: 1PX dashed black;
+    padding: 20px 20px; /*5px*/
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 400px; 
+    box-sizing: border-box;
+  }
+
